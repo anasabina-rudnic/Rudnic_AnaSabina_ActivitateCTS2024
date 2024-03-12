@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2_CleanCode/Seminar2_CleanCode.iml" filepath="$PROJECT_DIR$/Seminar2_CleanCode/Seminar2_CleanCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3_DPCreationale_Singleton/Seminar3_DPCreationale_Singleton.iml" filepath="$PROJECT_DIR$/Seminar3_DPCreationale_Singleton/Seminar3_DPCreationale_Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4_DPCreationale_Factory/Seminar4_DPCreationale_Factory.iml" filepath="$PROJECT_DIR$/Seminar4_DPCreationale_Factory/Seminar4_DPCreationale_Factory.iml" />
     </modules>
   </component>
 </project>
